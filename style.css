@@ -231,5 +231,6 @@ background: #c9182d;
   }
   .burger {
       display: block;
+      padding-top: 10px;
   }
 }
